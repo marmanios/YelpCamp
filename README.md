@@ -1,5 +1,5 @@
 # YelpCamp - The Web Developer Bootcamp 2022 Final Project
-![Login screen](./Yelpcamp (2).png)
+![Login screen](./Yelpcamp (2).png?raw=true)
 
 ### What is YelpCamp
 

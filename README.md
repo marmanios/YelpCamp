@@ -1,10 +1,5 @@
 # YelpCamp - The Web Developer Bootcamp 2022 Final Project
-![login](./Yelpcamp (1).png)
-![login](Yelpcamp (1).png)
-![login](https://github.com/marmanios/YelpCamp/blob/8fa603574080536b571d1a0f66494aefb01b33d3/Yelpcamp%20(1).png)
-![login](./Yelpcamp (1).png)?raw=true
-![login](Yelpcamp (1).png)?raw=true
-![login](https://github.com/marmanios/YelpCamp/blob/8fa603574080536b571d1a0f66494aefb01b33d3/Yelpcamp%20(1).png)?raw=true
+![login](https://github.com/marmanios/YelpCamp/blob/c54293fb1fd4c5d975c633e915874949fb9ef12b/Yelpcamp%20(2).png)
 ### What is YelpCamp
 
 YelpCamp is an online service where people can post, browse, and review campsites. The purpose of this site is to give people a simpler way of discovering camping locations while also enabling campsite owners to increase awareness of their locations.
@@ -13,11 +8,16 @@ YelpCamp is an online service where people can post, browse, and review campsite
 
 #### Accounts
 
-Upon opening the application, the user is greeted with the splash page seen above. From there, the user is instructed to either login or browse campgrounds. YelpCamp features a fully functional login and registration page, requiring your username, email, and password. The password stored is hashed and salted, thus making it fully secured.
+Upon opening the application, the user is greeted with the splash page seen above. From there, the user is instructed to either login or browse campgrounds. YelpCamps registration page requires your username, email, and password. The password stored is hashed and salted, thus making it fully secure.
+
+![login](https://github.com/marmanios/YelpCamp/blob/c54293fb1fd4c5d975c633e915874949fb9ef12b/Yelpcamp%20(4).png)
 
 #### Browse Page and Cluster Map
 
 Once logged in you are redirected to the browsing page, where you are introduced to the published campgrounds. Campgrounds can be discovered through scrolling or by browsing the map. The map includes a pin at the location of every campground and can be clicked to take you to the show page of said campground
+
+![login](https://github.com/marmanios/YelpCamp/blob/c54293fb1fd4c5d975c633e915874949fb9ef12b/Yelpcamp%20(3).png)
+
 
 #### Campgrounds
 

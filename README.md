@@ -30,7 +30,7 @@ Campgrounds can be edited to update any information or images and they can also 
 Reviews can be placed on any campground by a user. Reviews are on a 1-5 scale and include the review author and a review body
 
 
-## Setup and requirements
+## Setup and requirements   
 
 
 #### Initial install
